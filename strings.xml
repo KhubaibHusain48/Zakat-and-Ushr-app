@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Zakat and Ushr</string>
+    <string name="urdu_poetry">الحمد للہ رب العالمین</string>
+    <string name="Amount">آپ کے پاس موجود رقم
+</string>
+    <string name="ushrAmount">آپ کے پاس موجود رقم</string>
+    <string name="textview">زکوٰة اور عشر معلوم کریں</string>
+    <string name="ushrCalc">عشر معلوم کریں</string>
+    <string name="zakatCalc">زکوٰۃ  معلوم کریں</string>
+
+</resources>
